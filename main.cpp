@@ -29,7 +29,7 @@ int main()
  else {
 
  //in all other cases...
-  cout<<letter<<" ?! Pssh. What are you talking about?\n";
+  cout<<letter<<"?! Pssh. What are you talking about?\n";
   
 }
 
